@@ -1,2 +1,2 @@
-# lista_chamada_bibliotec-ria
+# lista_chamada_bibliotecaria
 Colaboração com projeto em grupo
