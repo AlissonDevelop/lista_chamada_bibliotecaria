@@ -28,7 +28,7 @@ while True:
                     print("Não Participou da Atividade")
                     print()
                 case 6:
-                    print("Não Participou da Atividade")
+                    print("não participou da atividade ")
                     print()
                 case 7:
                     print("Não Participou da Atividade")
@@ -103,7 +103,7 @@ while True:
                     print("Não Participou da Atividade")
                     print()
                 case 32:
-                    print("Não Participou da Atividade")
+                    print(f"[{n}] Nome: Arthur Mesquita - RA:0001103895618")
                     print()
                 case 33:
                     print("Não Participou da Atividade")
