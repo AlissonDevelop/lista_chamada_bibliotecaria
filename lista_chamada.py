@@ -7,16 +7,11 @@ while True:
             n = int(input("\nDigite seu número da lista de chamada: "))
 
             match n:
-#                Exemplo de como deve ser preenchido!!!   
-#                case 1:
-#                    print(f"Nº [{n}] Nome: Alisson Ferreira - RA: 000974093649sp")
-#                    print()
-
                 case 1:
                     print("Não Participou da Atividade")
                     printf()
                 case 2:
-                    print("Não Participou da Atividade")
+                    print(f"[{n}] nome: Alanis Naiara - RA: 000019773887608sp")
                     print()
                 case 3:
                     print("Não Participou da Atividade")
@@ -30,11 +25,8 @@ while True:
                 case 6:
                     print(f"[{n}] Nome: Daniel Pereira  - RA:00001116817056")
                     print()
-                case 6:
-                    print("não participou da atividade ")
-                    print()
                 case 7:
-                    print("Não Participou da Atividade")
+                    print(f"[{n}] Nome: Douglas Feliciano  - RA: 0000784788378378sp")
                     print()
                 case 8:
                     print(f"[{n}] nome: Evelyn Diana - RA: 0000110400785")
@@ -52,8 +44,8 @@ while True:
                     print("Não Participou da Atividade")
                     print()
                 case 13:
-                    print("Não Participou da Atividade")
                     print(f"[{n}] Nome: Gabriel Slater _ RA: 00001093772037")
+                    print()
                 case 14:
                     print("Não Participou da Atividade")
                     print()
@@ -88,7 +80,7 @@ while True:
                     print(f"[{n}] Nome: Stheffany Nathany - RA:0001128653")
                     print()
                 case 25:
-                    print("Não Participou da Atividade")
+                    print(f"[{n}] nome: Vitória Kimberly - RA: 000010303533288sp")
                     print()
                 case 26:
                     print("Não Participou da Atividade")
@@ -121,7 +113,7 @@ while True:
                     print(f"[{n}] Nome: Jorge Miguel - RA: 000109318431")
                     print()
                 case 36:
-                    print(f"[{n}]" Nome: Marcos Levy - RA: 0001937845657714sp")
+                    print(f"[{n}] Nome: Marcos Levy - RA: 0001937845657714sp")
                     print()
                 case 37:
                     print(f"[{n}] Nome: Richard Da Macena - RA: 00001113150312")
