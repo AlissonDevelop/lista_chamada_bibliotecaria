@@ -14,7 +14,7 @@ while True:
 
                 case 1:
                     print("Não Participou da Atividade")
-                    print()
+                    printf()
                 case 2:
                     print("Não Participou da Atividade")
                     print()
@@ -50,7 +50,7 @@ while True:
                     print()
                 case 13:
                     print("Não Participou da Atividade")
-                    print()
+                    print(f"[{n}] Nome: Gabriel Slater _ RA: 00001093772037")
                 case 14:
                     print("Não Participou da Atividade")
                     print()
