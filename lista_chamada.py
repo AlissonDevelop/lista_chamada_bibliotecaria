@@ -25,8 +25,10 @@ while True:
                     print("Não Participou da Atividade")
                     print()
                 case 5:
+                    print(f"[{n}] nome: Andrews Lucas - RA: 00001083726808sp")
+                    print()
+                case 6:
                     print(f"[{n}] Nome: Daniel Pereira  - RA:00001116817056")
-                
                     print()
                 case 6:
                     print("não participou da atividade ")
@@ -110,7 +112,7 @@ while True:
                     print(f"[{n}] Nome: Arthur Mesquita - RA:0001103895618")
                     print()
                 case 33:
-                    print("Não participou da atividade")
+                    print(f"[{n}] Nome: Maria Luiza - RA: 0001140028922")
                     print()
                 case 34:
                     print("Não Participou da Atividade")
@@ -119,7 +121,7 @@ while True:
                     print(f"[{n}] Nome: Jorge Miguel - RA: 000109318431")
                     print()
                 case 36:
-                    print(f"[{n}]" Nome: Stheffany Nathany - RA: 000112967714sp")
+                    print(f"[{n}]" Nome: Marcos Levy - RA: 0001937845657714sp")
                     print()
                 case 37:
                     print(f"[{n}] Nome: Richard Da Macena - RA: 00001113150312")
