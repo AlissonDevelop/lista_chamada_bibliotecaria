@@ -55,7 +55,7 @@ while True:
                     print("Não Participou da Atividade")
                     print()
                 case 15:
-                    print("Não Participou da Atividade")
+                    print(f"[n] Nome: Giovanna Vitoria - RA: 00001083033487")
                     print()
                 case 16:
                     print("Não Participou da Atividade")
