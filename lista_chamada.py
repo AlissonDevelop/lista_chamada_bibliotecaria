@@ -79,7 +79,7 @@ while True:
                     print("Não Participou da Atividade")
                     print()
                 case 24:
-                    print("Não Participou da Atividade")
+                    print(f"[{n}] Nome: Stheffany Nathany - RA:0001128653")
                     print()
                 case 25:
                     print("Não Participou da Atividade")
@@ -115,7 +115,7 @@ while True:
                     print("Não Participou da Atividade)")
                     print()
                 case 36:
-                    print("Não Participou da Atividade")
+                    print(f"[{n}]" Nome: Stheffany Nathany - RA: 000112967714sp")
                     print()
                 case 37:
                     print("Não Participou da Atividade")
